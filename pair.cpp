@@ -25,4 +25,11 @@ for(int i = 0;i<3;i++){
 }
 
 }
+/*
+if i need to take input from user
+cin>>p.first>>p.second;
+syntax:pair<dt1,dt2> pairvariable;
+
+*/
+
  
